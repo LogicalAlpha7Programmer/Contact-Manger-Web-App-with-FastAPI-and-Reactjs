@@ -1,10 +1,9 @@
 # Contact-Manger-Web-App-with-FastAPI-and-Reactjs
-virtual environment:-
+# virtual environment:-
 	python -m venv venv
  	'venv/scripts/activate'
 
-installing dependencies:-
+# installing dependencies:-
 	pip install fastapi[All] uvicorn[standard] SQLAlchemy hashlib[bcrypt] pydantic[email]
-
-Run the Server by:-
+# Run the Server by:-
   python main.py
