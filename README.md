@@ -5,5 +5,9 @@
 
 # installing dependencies:-
 	pip install fastapi[All] uvicorn[standard] SQLAlchemy hashlib[bcrypt] pydantic[email]
+
 # Run the Server by:-
-  python main.py
+  	python main.py
+
+# Run the Frontend:-
+	npm run dev
